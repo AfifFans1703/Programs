@@ -1,0 +1,9 @@
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\bin\Debug\AplikasiKriteriaNilai.exe.config
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\bin\Debug\AplikasiKriteriaNilai.exe
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\bin\Debug\AplikasiKriteriaNilai.pdb
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\obj\Debug\AplikasiKriteriaNilai.Form1.resources
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\obj\Debug\AplikasiKriteriaNilai.Properties.Resources.resources
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\obj\Debug\AplikasiKriteriaNilai.csproj.GenerateResource.cache
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\obj\Debug\AplikasiKriteriaNilai.csproj.CoreCompileInputs.cache
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\obj\Debug\AplikasiKriteriaNilai.exe
+D:\Visual Studio\AplikasiKriteriaNilai\AplikasiKriteriaNilai\obj\Debug\AplikasiKriteriaNilai.pdb
