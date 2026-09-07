@@ -1,0 +1,7 @@
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Visual Studio\Muhammad Afifansyah Setiawan - X PPLG 2\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
