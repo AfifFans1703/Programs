@@ -1,0 +1,7 @@
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\bin\Debug\AritmatikaPenjumlahan.exe.config
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\bin\Debug\AritmatikaPenjumlahan.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\bin\Debug\AritmatikaPenjumlahan.pdb
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\obj\Debug\AritmatikaPenjumlahan.csproj.AssemblyReference.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\obj\Debug\AritmatikaPenjumlahan.csproj.CoreCompileInputs.cache
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\obj\Debug\AritmatikaPenjumlahan.exe
+D:\Muhammad Afifansyah Setiawan - X PPLG 2\AritmatikaPenjumlahan\AritmatikaPenjumlahan\obj\Debug\AritmatikaPenjumlahan.pdb
