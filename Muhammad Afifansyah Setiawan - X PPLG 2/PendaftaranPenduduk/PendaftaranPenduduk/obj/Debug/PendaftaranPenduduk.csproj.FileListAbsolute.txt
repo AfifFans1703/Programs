@@ -1,0 +1,7 @@
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\bin\Debug\PendaftaranPenduduk.exe.config
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\bin\Debug\PendaftaranPenduduk.exe
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\bin\Debug\PendaftaranPenduduk.pdb
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\obj\Debug\PendaftaranPenduduk.csproj.AssemblyReference.cache
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\obj\Debug\PendaftaranPenduduk.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\obj\Debug\PendaftaranPenduduk.exe
+C:\Users\AXIOO\source\repos\PendaftaranPenduduk\PendaftaranPenduduk\obj\Debug\PendaftaranPenduduk.pdb

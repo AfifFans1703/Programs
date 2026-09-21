@@ -1,0 +1,7 @@
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.csproj.AssemblyReference.cache
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.csproj.CoreCompileInputs.cache
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\bin\Debug\LuasLingkaran.exe.config
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\bin\Debug\LuasLingkaran.exe
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\bin\Debug\LuasLingkaran.pdb
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.exe
+C:\Users\AXIOO\source\repos\LuasLingkaran\LuasLingkaran\obj\Debug\LuasLingkaran.pdb
